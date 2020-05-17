@@ -1,0 +1,25 @@
+{
+  "name": "hello_world_nodejs",
+  "version": "1.0.0",
+  "description": "A Simple Hello world app to make sure you can view a listening port as plain as possible",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webgoon/node-hello-world.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "node",
+    "js"
+  ],
+  "author": "Benjamin Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webgoon/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/webgoon/node-hello-world#readme"
+}
